@@ -1,0 +1,91 @@
+Importer Log Report
+Document: C:\Users\arnav\Documents\GitHub\ti84-usbc\ti84_mini_usb
+    Section : Analyze Document from - C:\Users\arnav\Documents\GitHub\ti84-usbc\ti84_mini_usb
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child thermal_bridge_angle of pad.
+        Warning: Unknown child thermal_bridge_angle of pad.
+        Warning: Unknown child thermal_bridge_angle of pad.
+        Warning: Unknown child thermal_bridge_angle of pad.
+        Warning: Unknown child thermal_bridge_angle of pad.
+    EndSection
+    Section : Import Document - C:\Users\arnav\Documents\GitHub\ti84-usbc\Imported ti84_usbc\ti84_mini_usb.PcbLib
+        Event: Component REF** was successfully imported.
+        Event: Component REF** was successfully imported.
+        Section : Component REF** importing.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Graphical polygone with 125 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-0.65,0.2] was successfully imported.
+            Event: Pad 2 on [-0.65,-0.2] was successfully imported.
+            Event: Pad 3 on [-0.6,-0.75] was successfully imported.
+            Event: Pad 4 on [-0.2,-0.75] was successfully imported.
+            Event: Pad 5 on [0.2,-0.75] was successfully imported.
+            Event: Pad 6 on [0.6,-0.75] was successfully imported.
+            Event: Pad 7 on [0.65,-0.2] was successfully imported.
+            Event: Pad 8 on [0.65,0.2] was successfully imported.
+            Event: Pad 9 on [0.6,0.75] was successfully imported.
+            Event: Pad 10 on [0.2,0.75] was successfully imported.
+            Event: Pad 11 on [-0.2,0.75] was successfully imported.
+            Event: Pad 12 on [-0.6,0.75] was successfully imported.
+        EndSection
+        Section : Component REF** importing.
+            Event: Text 'user ${REFERENCE}' was successfully imported.
+            Event: Pad 1 on [1.85,9.6] was successfully imported.
+            Event: Pad 2 on [1.05,9.6] was successfully imported.
+            Event: Pad 3 on [0.25,9.6] was successfully imported.
+            Event: Pad 4 on [-0.55,9.6] was successfully imported.
+            Event: Pad 5 on [-1.35,9.6] was successfully imported.
+            Event: Pad 6 on [-3.5,3.9] was successfully imported.
+            Event: Pad 6 on [-3.4,9.8] was successfully imported.
+            Event: Pad 6 on [3.9,9.8] was successfully imported.
+            Event: Pad 6 on [4,3.9] was successfully imported.
+        EndSection
+    EndSection
